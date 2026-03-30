@@ -19,7 +19,7 @@ This project demonstrates the deployment of an Active Directory Domain Services 
 
 #### Step 1. Installed Windows Server on a Virtual Machine
 <img width="1406" height="834" alt="image" src="https://github.com/user-attachments/assets/0d55c596-c5cd-4a83-812c-a9b2d78a3456" />
-**Installation of Windows Server done**
+__Installation of Windows Server done__
 
 #### Step 2. Enabled Active Directory Domain Services Role in Windows Server
 Prerequisites:
@@ -27,32 +27,32 @@ Prerequisites:
 - Configure a name to the server.
 
 <img width="621" height="371" alt="image" src="https://github.com/user-attachments/assets/ac90895e-0b7f-4484-8aff-90965362151d" />
-**Static IP and Named configured**
+__Static IP and Named configured__
 
 <img width="816" height="604" alt="image" src="https://github.com/user-attachments/assets/c059d788-4d3d-4f40-93c7-7592101a3169" />
-**Enabling Active Directory Domain Services Role**
+__Enabling Active Directory Domain Services Role__
 
 #### Step 3. Promoted the Server to Domain Controller
 Note: It is important to use .local or a non-routable internal subdomain instead of .com. This prevents DNS conflicts between internal resources and public-facing websites.
 
 <img width="857" height="677" alt="image" src="https://github.com/user-attachments/assets/1f2085c0-e086-46b4-8171-fce69ef50243" />
-**Setting the domain name**
+__Setting the domain name__
 
 <img width="1134" height="408" alt="image" src="https://github.com/user-attachments/assets/0ef929a5-7723-418b-8a47-299fb9bb4491" />
-**Server promoted to Domain Controller**
+__Server promoted to Domain Controller__
 
 
 #### Step 4. Added Windows 10 VM to the Domain
 Prerequisites:
 - Set the dns server to the server's IP.
 <img width="450" height="515" alt="image" src="https://github.com/user-attachments/assets/f8e37ff5-8b0b-4e82-84ac-ff532bc87e74" />
-**DNS server setting in the Windows 10 VM**
+__DNS server setting in the Windows 10 VM__
 
 Installation of Windows 10 on the VM [Video](https://youtu.be/6ZiSBbfSKsM)
 Adding Windows 10 to the domain [Video](https://youtu.be/Jh-48SJ8rt0)
 
 <img width="786" height="628" alt="image" src="https://github.com/user-attachments/assets/4f78d799-505c-4c4e-ba98-9fab85baa7fe" />
-**Windows 10 VM properties showing it has been added to the domain**
+__Windows 10 VM properties showing it has been added to the domain__
 
 
 ### Outcome/Lessons Learned
