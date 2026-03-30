@@ -19,7 +19,7 @@ This project demonstrates the deployment of an Active Directory Domain Services 
 
 #### Step 1. Installed Windows Server on a Virtual Machine
 <img width="1406" height="834" alt="image" src="https://github.com/user-attachments/assets/0d55c596-c5cd-4a83-812c-a9b2d78a3456" />
-<strong>Installation of Windows Server done</strong>
+*Installation of Windows Server done*
 
 #### Step 2. Enabled Active Directory Domain Services Role in Windows Server
 Prerequisites:
