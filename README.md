@@ -58,7 +58,7 @@ Adding Windows 10 to the domain [Video](https://youtu.be/Jh-48SJ8rt0)
 
 <img width="786" height="628" alt="image" src="https://github.com/user-attachments/assets/4f78d799-505c-4c4e-ba98-9fab85baa7fe" />
 <br/>
-<i>Windows 10 VM properties showing it has been added to the domain<i>
+<i>Windows 10 VM properties showing it has been added to the domain</i>
 
 
 ### Outcome/Lessons Learned
