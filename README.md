@@ -62,5 +62,5 @@ With a Domain configured, a business can protect their devices, including server
 ### Other resources
 - Download Windows 10 iso [Link](https://www.microsoft.com/en-us/software-download/windows10) [Video](https://youtu.be/yGYg5e4MKxg)
 - Download Windows Server iso [Link](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025)
-- Download and installation of VMware Workstation from broadcom.com [Link](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true) [Video]([https://youtu.be/pctVqHIzsWo](https://youtu.be/dAUnyVpmuwk))
+- Download and installation of VMware Workstation from broadcom.com [Link](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true) [Video](https://youtu.be/dAUnyVpmuwk)
 
